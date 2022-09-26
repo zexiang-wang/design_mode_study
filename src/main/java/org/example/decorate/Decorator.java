@@ -1,4 +1,4 @@
-package com.aze.decorate;
+package org.example.decorate;
 
 // 装饰
 public abstract class Decorator extends Component{

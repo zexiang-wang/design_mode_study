@@ -1,4 +1,4 @@
-package com.aze.decorate;
+package org.example.decorate;
 
 public abstract class Component {
     public abstract void operation();

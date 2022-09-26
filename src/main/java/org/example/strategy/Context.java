@@ -1,4 +1,4 @@
-package com.aze;
+package org.example.strategy;
 
 public class Context {
     Strategy strategy;

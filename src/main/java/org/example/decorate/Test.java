@@ -1,4 +1,4 @@
-package com.aze.decorate;
+package org.example.decorate;
 
 public class Test {
     public static void main(String[] args) {

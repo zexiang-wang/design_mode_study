@@ -1,4 +1,4 @@
-package com.aze;
+package org.example.strategy;
 
 // 抽象算法类
 public class ConcreteStrategyB extends Strategy{

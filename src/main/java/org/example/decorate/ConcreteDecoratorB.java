@@ -1,4 +1,4 @@
-package com.aze.decorate;
+package org.example.decorate;
 
 public class ConcreteDecoratorB extends Decorator{
     private String addedState;
